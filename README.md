@@ -5,7 +5,7 @@ MovieApp oli projekti jossa yhdistyivät Front-end perusteiden sekä Back-end 1 
 
 ## Teknologiat
 
-- **Frontend**: Svelte, CSS, Tailwind CSS
+- **Frontend**: Svelte, JavaScript, CSS, Tailwind CSS
 - **Backend**: Node.js, Express
 - **Tietokanta**: MongoDB (Mongoose)
 
